@@ -35,7 +35,7 @@ Bingeverse is a comprehensive web project that showcases a variety of multimedia
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/laveshparyani/Bingeverse.git
+   git clone https://github.com/Anmolkeswani24/Bingeverse.git
 
 2. **Navigate to the Project Directory:**
    ```bash
