@@ -2,12 +2,6 @@
 
 Bingeverse is a comprehensive web project that showcases a variety of multimedia content, including movies, TV shows, celebrity news, and community interactions. With dedicated sections for top movies, popular TV shows, upcoming releases, and prestigious awards, Bingeverse offers a curated experience for entertainment enthusiasts. Explore the latest trailers, discover what's trending in cinema and television, delve into celebrity profiles, and engage with the community through polls and a help center. Dive into Bingeverse and immerse yourself in the world of entertainment.
 
-## Live Demo
-
-<a href="https://laveshparyani.github.io/Bingeverse/" style="text-decoration:none;">
-  <img src="https://img.shields.io/badge/Live%20Demo-2dba4e?style=for-the-badge&labelColor=2dba4e&color=2dba4e&logo=none" alt="Live Demo" style="color: #fafbfc; border-radius: 4px; box-shadow: 0 4px #1e7e34; transition: all 0.2s ease-in-out;"/>
-</a>
-
 ## Key Features
 
 **Movies Section**
